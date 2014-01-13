@@ -1,4 +1,4 @@
-# Flashlights background
+# Spotlights Background
 
 This is a basic example of what can be accomplished using kinetic.js library to abstract HTML5 canvas API.
 
